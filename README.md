@@ -95,19 +95,6 @@ According to the elbow method, the inertia changes significantly up to 3 cluster
 ![silhouette_score_avg](img/silhouette_score_avg.png)
 The silhouette score analysis indicates that 3 clusters have the highest scores compared to other cluster options. Therefore, it can be concluded that using 3 clusters yields the best results for this model.
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead tr th {
-        text-align: left;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr>
