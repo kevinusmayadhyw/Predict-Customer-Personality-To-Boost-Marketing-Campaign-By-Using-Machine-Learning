@@ -1,5 +1,17 @@
 # Predict Customer Personality To Boost Marketing Campaign By Using Machine Learning
 
+- Dataset: Sourced from [Rakamin Academy](https://github.com/kevinusmayadhyw/Predict-Customer-Personality-To-Boost-Marketing-Campaign-By-Using-Machine-Learning/tree/main/dataset).
+- Programming Language: Python Version 3.10.11
+- Library:
+    - pandas version 2.0.1
+    - matplotlib version 3.7.1
+    - seaborn version 0.12.2
+    - numpy version 1.24.3
+    - datetime
+    - math
+    - sklearn version 1.2.2
+    - scipy version 1.10.1
+
 ## Stage 0: Overview
 Understanding the personality and behavior of customers is crucial for a company's rapid development. This knowledge enables the provision of improved services and benefits to customers, fostering loyalty. Leveraging historical marketing campaign data for performance enhancement and targeted customer engagement is a valuable strategy. In this project, the focus is on creating a cluster prediction model, utilizing insights from historical data to facilitate informed decision-making for the company. This project is organized into several stages, which include:
 - Stage 1: Conversion Rate Analysis 
